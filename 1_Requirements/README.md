@@ -3,6 +3,24 @@
 
 This Quiz is a General Knowledge based Quiz implemented with C programming.The participants are provided with some general Knowledge questions and the scores are given based on the questions answered.The code is compiled in Visual Studio code.
 
+# SWOT Analysis
+
+# Strength
+User friendly and any age group can participate
+
+# Weakness
+No much Algorithm needed
+
+# Opportunities
+It provides an opportunity for the user to enhance their General Knowledge
+
+# Threat
+The Participants does not have time limit 
+
+
+
+
+
 
 # 4 W's and 1 H
 
