@@ -1,2 +1,4 @@
 Description:
+
+
 This Quiz is a General Knowledge based Quiz implemented with C programming.The participants are provided with some general Knowledge questions and the scores are given based on the questions answered.
