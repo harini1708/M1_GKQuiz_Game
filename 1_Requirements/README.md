@@ -34,7 +34,7 @@ The main purpose of the quiz is to create awareness on General Knowledge which w
 Anyone can participate when they want to take the quiz and boost their confidence.
 
 # Why
-The project aims to keep anyone interested in C languge by attending quiz.
+The project aims to keep everyone interested in C languge by attending quiz.
 
 # How
 The user can take the Quiz by entering his/her name.
