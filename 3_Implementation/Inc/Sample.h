@@ -2,7 +2,7 @@
 #define _SYSTEM_H
 #include<stdio.h>
 #include<stdlib.h>
-char name[30];
+char name[50];
 int score_user=0,counth=0;
 void calcScore()  //This function is used to calculate the scores in quiz
 {
