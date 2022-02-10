@@ -6,7 +6,7 @@
 | Test ID | Description    | Input | Expected Output | Actual Output |
 | ------- | -----------    | ----- | -------------   | ------------- |
 | HLTP1   | User Interface | Char Y| Enter the answer| Pass          |
-| HLTP1   | User I nterface| Char N| Exit from Quiz  | Pass          |
+| HLTP1   | User Interface | Char N| Exit from Quiz  | Pass          |
 
 
 ## LOW LEVEL TEST PLAN
