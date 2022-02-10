@@ -9,26 +9,26 @@ void calcScore()  //This function is used to calculate the scores in quiz
     if (score_user >= 80&&score_user <= 100)
     {
 	printf("\nCongrats! %s You have won the quiz.\n",name);
-	printf("you got %d numbers.\n",score_user);
-	printf("your %d Question is correct.\n",counth);
+	printf("you got %d points.\n",score_user);
+	printf("your %d Questions are correct.\n",counth);
     }
  else if(score_user >= 60&&score_user < 80)
     {
 	printf("Congrats! %s You have won the quiz.\n",name);
-	printf("you got %d numbers.\n",score_user);
-	printf("your %d Question is correct.\n",counth);
+	printf("you got %d points.\n",score_user);
+	printf("your %d Questions are correct.\n",counth);
     }
     else if(score_user >= 40&&score_user < 60)
     {
 	printf("Congrats! %s You have won the quiz.\n",name);
-	printf("you got %d numbers.\n",score_user);
-	printf("your %d Question is correct.\n",counth);
+	printf("you got %d points.\n",score_user);
+	printf("your %d Questions are correct.\n",counth);
     }
     else if(score_user >= 10&&score_user < 40)
     {
 	printf("Sorry! %s Unfortunately,You have lost the quiz.\n",name);
-	printf("you got %d numbers.\n",score_user);
-	printf("your %d Question is correct.\n",counth);
+	printf("you got %d points.\n",score_user);
+	printf("your %d Questions are correct.\n",counth);
 	printf("*******Better luck lext time*********\n");
     }
     exit(0);
@@ -181,6 +181,7 @@ void questions() // The questions for the quiz are entered
     }
     calcScore();
 }
+
 void menu() // Rules of the GKQuiz Game are displayed and name is entered by the quiz taker
 {
     char ch;
