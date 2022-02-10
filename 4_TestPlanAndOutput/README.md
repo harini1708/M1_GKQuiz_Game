@@ -1,5 +1,5 @@
 # TEST PLAN
------------------
+
 
 ## HIGH LEVEL TEST PLAN
 
@@ -7,7 +7,7 @@
 | ------- | -----------    | ----- | -------------   | ------------- |
 | HLTP1   | User Interface | Char Y| Enter the answer| Pass          |
 | HLTP1   | User I nterface| Char N| Exit from Quiz  | Pass          |
------------------------------------------------------------------------------
+
 
 ## LOW LEVEL TEST PLAN
 
