@@ -60,8 +60,8 @@ void questions() // The questions for the quiz are entered
 {
     char option_choose,correct;
     printf("1.Q-India's first satellite is named after\n");
-    printf("\t(A).Aryabhatta\t(B).Bhaskara II\n");
-    printf("\t(C).Bhaskara I\t(D).Albert Einstein\n");
+    printf("\t(a)Aryabhatta\t(b)Bhaskara II\n");
+    printf("\t(c)Bhaskara I\t(d)Albert Einstein\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -72,8 +72,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("2.Q-India's tallest stone statue of the Jain sage Gomateswara is at\n");
-    printf("\t(A).New Delhi\t(B).Mysore, Karnakata\n");
-    printf("\t(C).Mandu, Madhya Pradesh\t(D).Sravanabelagola, Karnataka\n");
+    printf("\t(a)New Delhi\t(b)Mysore, Karnakata\n");
+    printf("\t(c)Mandu, Madhya Pradesh\t(d)Sravanabelagola, Karnataka\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -84,8 +84,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("3.Q-In a normal human body, the total number of red blood cells is\n");
-    printf("\t(A).15 trillion\t(B).30 trillion\n");
-    printf("\t(C).25 trillion\t(D).10 trillion\n");
+    printf("\t(a)15 trillion\t(b)30 trillion\n");
+    printf("\t(c)25 trillion\t(d)10 trillion\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -96,8 +96,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("4.Q-India participated in Olympics Hockey in\n");
-    printf("\t(A).1938\t(B).1918\n");
-    printf("\t(C).1948\t(D).1928\n");
+    printf("\t(a)1938\t(b)1918\n");
+    printf("\t(c)1948\t(d)1928\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -108,8 +108,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("5.Q-Hundred year war was fought between\n");
-    printf("\t(A).France and England\t(B).Civil war in England\n");
-    printf("\t(C).Greek and persian forces\t(D).None of the above\n");
+    printf("\t(a)France and England\t(b)Civil war in England\n");
+    printf("\t(c)Greek and persian forces\t(d)None of the above\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -120,8 +120,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("6.Q-India has largest deposits of ___ in the World\n");
-    printf("\t(A).Copper\t(B).Gold\n");
-    printf("\t(C).Mica\t(D).None of the above\n");
+    printf("\t(a)Copper\t(b)Gold\n");
+    printf("\t(c)Mica\t(d)None of the above\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -132,8 +132,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("7.Q-INS Agrani (Petty Officers' School) is situated at\n");
-    printf("\t(A).Mumbai\t(B).Chennai\n");
-    printf("\t(C).Coimbatore\t(D).Delhi\n");
+    printf("\t(a)Mumbai\t(b)Chennai\n");
+    printf("\t(c)Coimbatore\t(d)Delhi\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -144,8 +144,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("8.Q-India became a member of the United Nations in\n");
-    printf("\t(A).1947\t(B).1945\n");
-    printf("\t(C).1950\t(D).1952\n");
+    printf("\t(a)1947\t(b)1945\n");
+    printf("\t(c)1950\t(d)1952\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -156,8 +156,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("9.Q-India's first indigenously built submarine was\n");
-    printf("\t(A).INS Savitri\t(B).INS Delhi\n");
-    printf("\t(C).INS Shalki\t(D).INS Vibhuti\n");
+    printf("\t(a)INS Savitri\t(b)INS Delhi\n");
+    printf("\t(c)INS Shalki\t(d)INS Vibhuti\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
@@ -168,8 +168,8 @@ void questions() // The questions for the quiz are entered
 	return;
     }
     printf("10.Q-India's first Atomic Reactor was\n");
-    printf("\t(A).Kamini\t(B).Dhruva\n");
-    printf("\t(C).Zerlina\t(D).Apsara\n");
+    printf("\t(a)Kamini\t(b)Dhruva\n");
+    printf("\t(c)Zerlina\t(d)Apsara\n");
     printf("Choose which option is correct:");
     fflush(stdin);
     scanf("%c",&option_choose);
