@@ -1,8 +1,8 @@
 #include"Sample.h"
-    void main()
+void main()
 {
-    printf("\n*******Welcome to General Knowledge Quiz Game*******\n");
-    printf("Please Enter your name:");
+    printf("\n*******Welcome to Quiz Game*******\n");
+    printf("Enter your name:");
     gets(name);
     menu();
 }
