@@ -39,14 +39,14 @@ The project aims to keep everyone interested in C languge by attending quiz.
 ## How
 The user can take the Quiz by entering his/her name.
 
-#High Level Requirement
+# High Level Requirement
 
 | ID  |  Description                                      | Status     | 
 | ----|  -----------------------------------------        |----------  |
 | HR01|  User Enters the option and goes to next question | Implemented|
 
 
-#Low Level Requirement
+# Low Level Requirement
 
 | ID  |  Description                                            | Status     | 
 | ----|  -----------------------------------------              |----------  |
