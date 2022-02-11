@@ -5,11 +5,12 @@ This Quiz is a General Knowledge based Quiz implemented with C programming.The p
 
 # SWOT Analysis
 
-## Strength
-User friendly and any age group can participate
+| ## Strength                                      |  ## Weakness            |
+| -------------------------------------------      |  ------------------     |
+User friendly and any age group can participate        No Efficient Algorithm
 
-## Weakness
-No complicated Algorithm 
+
+ 
 
 ## Opportunities
 It provides an opportunity for the user to enhance their General Knowledge
