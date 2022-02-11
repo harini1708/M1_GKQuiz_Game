@@ -5,5 +5,7 @@ The Participant enters the quiz, Answers the question, View the results and exit
 
 # Advantage
  1.General knowledge helps to grow your confidence level
+ 
  2.Great help during some important events of our lives like interview
+ 
  3.Almost all competitive exams require a lot of question based on general knowledge and thinking. A major portion of the exams for various high posts including IAS, IPS etc. is dedicated to general knowledge questions, which carry a comparatively high weight age of marks in the exams as compared to other subjects or languages.
