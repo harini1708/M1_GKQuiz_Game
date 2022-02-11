@@ -3,21 +3,23 @@
 
 This Quiz is a General Knowledge based Quiz implemented with C programming.The participants are provided with some general Knowledge questions and the scores are given based on the questions answered.The code is compiled in Visual Studio code.
 
+# Features
+
+The Key features are:
+1.Participate the quiz to enhance General Knowledge
+2.View the Results 
+3.Exit from the quiz
+
+
 # SWOT Analysis
 
-| ## Strength                                      |  ## Weakness            |
-| -------------------------------------------      |  ------------------     |
-User friendly and any age group can participate        No Efficient Algorithm
-
-
- 
-
-## Opportunities
-It provides an opportunity for the user to enhance their General Knowledge
-
-## Threat
-The Participants does not have time limit 
-
+|  STRENGTHS                                        |  WEAKNESS                |
+| -------------------------------------------       |  ------------------      |
+|User friendly and any age group can participate    |    No Efficient Algorithm|
+| ----------------------------------------------    | -----------------------  |
+| OPPORTUNITIES                                     | THREAT                   |
+| It provides an opportunity for the user to        | The Participants does not|
+| enhance their General Knowledge                   | have time limit          |
 
 
 
@@ -39,6 +41,7 @@ The project aims to keep everyone interested in C languge by attending quiz.
 
 ## How
 The user can take the Quiz by entering his/her name.
+
 
 # High Level Requirement
 
