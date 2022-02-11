@@ -9,7 +9,7 @@ This Quiz is a General Knowledge based Quiz implemented with C programming.The p
 User friendly and any age group can participate
 
 ## Weakness
-No much Algorithm needed
+No complicated Algorithm 
 
 ## Opportunities
 It provides an opportunity for the user to enhance their General Knowledge
