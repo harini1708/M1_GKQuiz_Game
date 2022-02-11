@@ -1,4 +1,4 @@
-#include"sample.h"
+#include"Sample.h"
 void main()
 {
     printf("\n*******Welcome to Quiz Game*******\n");
