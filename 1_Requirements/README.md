@@ -15,8 +15,8 @@ The Key features are:
 
 |  STRENGTHS                                     |  WEAKNESS             |OPPORTUNITIES                                                       | THREAT                         |
 | -------------------------------------------    |  ------------------   |-------------------------------------                                |---------------------           |
-|User friendly and any age group can participate | No Efficient Algorithm| It provides an opportunity for the userto enhance their General Knowledge |   
-        |
+|User friendly and any age group can participate | No Efficient Algorithm| It provides an opportunity for the user to enhance their General Knowledge | No time limit for quiz  |
+        
 
 
 
