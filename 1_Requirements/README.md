@@ -16,6 +16,7 @@ The Key features are:
 |  STRENGTHS                                        |  WEAKNESS                |
 | -------------------------------------------       |  ------------------      |
 |User friendly and any age group can participate    |    No Efficient Algorithm|
+
 | ----------------------------------------------    | -----------------------  |
 | OPPORTUNITIES                                     | THREAT                   |
 | It provides an opportunity for the user to        | The Participants does not|
