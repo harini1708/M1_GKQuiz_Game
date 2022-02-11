@@ -13,12 +13,10 @@ The Key features are:
 
 # SWOT Analysis
 
-|  STRENGTHS                                        |  WEAKNESS                |
+|  STRENGTHS                                        |  WEAKNESS                || OPPORTUNITIES                                     | THREAT                   |
 | -------------------------------------------       |  ------------------      |
 |User friendly and any age group can participate    |    No Efficient Algorithm|
 
-| ----------------------------------------------    | -----------------------  |
-| OPPORTUNITIES                                     | THREAT                   |
 | It provides an opportunity for the user to        | The Participants does not|
 | enhance their General Knowledge                   | have time limit          |
 
