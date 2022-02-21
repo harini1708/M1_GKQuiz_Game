@@ -7,6 +7,6 @@
 
 https://api.codiga.io/project/31032/score/svg
 
-https://api.codiga.io/project/31032/status/svg
+
 
 
