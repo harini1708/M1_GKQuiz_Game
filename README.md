@@ -5,7 +5,7 @@
 
 ## Codiga
 
-https://api.codiga.io/project/31032/score/svg
+[![codiga badge](https://api.codiga.io/project/31032/score/svg)]
 
 
 
