@@ -5,7 +5,8 @@
 
 ## Codiga
 
-[![codiga badge](https://api.codiga.io/project/31032/score/svg)]
+![codiga score](https://api.codiga.io/project/31032/score/svg)
+![codiga Badge](https://api.codiga.io/project/31032/status/svg)
 
 
 
