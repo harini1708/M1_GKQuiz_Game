@@ -16,4 +16,4 @@ jobs:
     - name: Install Cunit
       run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
-      run:  make test -C M1_GKQuiz/3_Implementation
+      run:  make test -C M1_GKQuiz_Game-1\3_Implementation
