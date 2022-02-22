@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make test -C M1_GKQuiz/3_Implementation
+      run: make test -C M1_GKQuiz_Game-1\3_Implementation
