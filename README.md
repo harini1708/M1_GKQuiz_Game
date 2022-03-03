@@ -1,4 +1,4 @@
-# M1_GKQuiz_Game
+# M1_GKQuiz_Game Workflow
 
 ## cpp check                                                                                                                                                                     
 [![cppcheck-action](https://github.com/harini1708/M1_GKQuiz_Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/harini1708/M1_GKQuiz_Game/actions/workflows/c-cpp.yml)  
